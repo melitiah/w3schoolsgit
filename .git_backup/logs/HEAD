@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 485be788d27f8e69987424ffa717d3f5fc26f860 melatiah <virginiamarcinfo@gmail.com> 1770336692 -0500	commit (initial): First release of Hello World!
+485be788d27f8e69987424ffa717d3f5fc26f860 5815cf862cd20c31fc9dc524bb1a55cd1012b62b melatiah <virginiamarcinfo@gmail.com> 1770337461 -0500	commit: Added new JS file
+5815cf862cd20c31fc9dc524bb1a55cd1012b62b fd58041d8728bc7d3251299819f2a950165eedbe melatiah <virginiamarcinfo@gmail.com> 1770337565 -0500	commit: updated html file
+fd58041d8728bc7d3251299819f2a950165eedbe fd58041d8728bc7d3251299819f2a950165eedbe melatiah <virginiamarcinfo@gmail.com> 1770426510 -0500	checkout: moving from main to hello-world-images
+fd58041d8728bc7d3251299819f2a950165eedbe fd58041d8728bc7d3251299819f2a950165eedbe melatiah <virginiamarcinfo@gmail.com> 1770427309 -0500	checkout: moving from hello-world-images to hello-world-images
+fd58041d8728bc7d3251299819f2a950165eedbe fd58041d8728bc7d3251299819f2a950165eedbe melatiah <virginiamarcinfo@gmail.com> 1770427567 -0500	checkout: moving from hello-world-images to main
+fd58041d8728bc7d3251299819f2a950165eedbe fd58041d8728bc7d3251299819f2a950165eedbe melatiah <virginiamarcinfo@gmail.com> 1770427721 -0500	checkout: moving from main to hello-world-images
+fd58041d8728bc7d3251299819f2a950165eedbe 36d6c9fd483cbb7da76624dcec4f7874a736bf0b melatiah <virginiamarcinfo@gmail.com> 1770427854 -0500	commit: Added image to Hello World
+36d6c9fd483cbb7da76624dcec4f7874a736bf0b fd58041d8728bc7d3251299819f2a950165eedbe melatiah <virginiamarcinfo@gmail.com> 1770428032 -0500	checkout: moving from hello-world-images to main
+fd58041d8728bc7d3251299819f2a950165eedbe 36d6c9fd483cbb7da76624dcec4f7874a736bf0b melatiah <virginiamarcinfo@gmail.com> 1770428111 -0500	checkout: moving from main to hello-world-images
+36d6c9fd483cbb7da76624dcec4f7874a736bf0b 71c017d956e75f8c48a7dc9b807f425d5484c2c1 melatiah <virginiamarcinfo@gmail.com> 1770428410 -0500	commit: Added image
+71c017d956e75f8c48a7dc9b807f425d5484c2c1 fd58041d8728bc7d3251299819f2a950165eedbe melatiah <virginiamarcinfo@gmail.com> 1770428462 -0500	checkout: moving from hello-world-images to main
+fd58041d8728bc7d3251299819f2a950165eedbe 71c017d956e75f8c48a7dc9b807f425d5484c2c1 melatiah <virginiamarcinfo@gmail.com> 1770428807 -0500	checkout: moving from main to hello-world-images
+71c017d956e75f8c48a7dc9b807f425d5484c2c1 71c017d956e75f8c48a7dc9b807f425d5484c2c1 melatiah <virginiamarcinfo@gmail.com> 1770428865 -0500	checkout: moving from hello-world-images to emergency-fix
+71c017d956e75f8c48a7dc9b807f425d5484c2c1 71c017d956e75f8c48a7dc9b807f425d5484c2c1 melatiah <virginiamarcinfo@gmail.com> 1770429268 -0500	checkout: moving from emergency-fix to hello-world-images
+71c017d956e75f8c48a7dc9b807f425d5484c2c1 fd58041d8728bc7d3251299819f2a950165eedbe melatiah <virginiamarcinfo@gmail.com> 1770429330 -0500	checkout: moving from hello-world-images to main
+fd58041d8728bc7d3251299819f2a950165eedbe 71c017d956e75f8c48a7dc9b807f425d5484c2c1 melatiah <virginiamarcinfo@gmail.com> 1770429387 -0500	checkout: moving from main to emergency-fix
+71c017d956e75f8c48a7dc9b807f425d5484c2c1 fd58041d8728bc7d3251299819f2a950165eedbe melatiah <virginiamarcinfo@gmail.com> 1770429784 -0500	checkout: moving from emergency-fix to main
+fd58041d8728bc7d3251299819f2a950165eedbe 71c017d956e75f8c48a7dc9b807f425d5484c2c1 melatiah <virginiamarcinfo@gmail.com> 1770429816 -0500	merge emergency-fix: Fast-forward
+71c017d956e75f8c48a7dc9b807f425d5484c2c1 71c017d956e75f8c48a7dc9b807f425d5484c2c1 melatiah <virginiamarcinfo@gmail.com> 1770430108 -0500	checkout: moving from main to emergency-fix
+71c017d956e75f8c48a7dc9b807f425d5484c2c1 8da6b09ed460d572b3c25a524554703b1c24ed4f melatiah <virginiamarcinfo@gmail.com> 1770430170 -0500	commit: updated index.html with emergency fix
+8da6b09ed460d572b3c25a524554703b1c24ed4f 71c017d956e75f8c48a7dc9b807f425d5484c2c1 melatiah <virginiamarcinfo@gmail.com> 1770430541 -0500	checkout: moving from emergency-fix to main
+71c017d956e75f8c48a7dc9b807f425d5484c2c1 8da6b09ed460d572b3c25a524554703b1c24ed4f melatiah <virginiamarcinfo@gmail.com> 1770433994 -0500	checkout: moving from main to emergency-fix
+8da6b09ed460d572b3c25a524554703b1c24ed4f 71c017d956e75f8c48a7dc9b807f425d5484c2c1 melatiah <virginiamarcinfo@gmail.com> 1770436232 -0500	checkout: moving from emergency-fix to main
